@@ -41,7 +41,7 @@ Average of mAP@.50IOU and mAP@.75IOU is cnsidered as Precision of Model
 Model mAP = 0.019
 
 ## False positives
-Any object wrongly classified is considered as False Positive
+Any object is detected when it should not have.
 
 ## Conclusion
 The total model duration i.e n_steps = 10K is too less for training. Model is underfitting.
