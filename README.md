@@ -13,9 +13,9 @@ TensorFlow Object Detection API:- https://tensorflow-object-detection-api-tutori
 
 ## About the model
 
-![alt text](https://i.ibb.co/qCRDCMk/resnet152v1.png)
+![alt text](https://i.ibb.co/qCRDCMk/resnet152v1.png)  
 Model used here belongs ResNet(Residual Network) which were introduced in 2015. 
-These type of models architecture is used for solving problem of vanishing gradient.
+These type of architectures are used for solving problem of vanishing gradient.  
 ResNet solve the problem of vanishing gradient in deep neural networks by allowing a alternate shortcut path for the gradient to flow through. 
 SSD ResNet152 V1 consists of 152 layers stacked in different groups where in addition to learning features at each layer, layers also pass output skipping some layers. 
 
