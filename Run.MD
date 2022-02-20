@@ -1,4 +1,5 @@
 Three files(DataProcessing.py, model_main_tf2.py, exporter_main_v2.py) are command line scripts.  
+
 Steps for Training:-  
 1. Exract *.zip in images folder
 2. `python DataProcessing.py -r 0.5`
