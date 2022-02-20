@@ -21,11 +21,14 @@ SSD ResNet152 V1 consists of 152 layers stacked in different groups where in add
 
 
 ## Primary Analysis
-![alt text](https://i.ibb.co/vjdyr3h/classification-loss.png)  Classification Loss: after 10K steps Loss/classification_loss did not seems to converge to minima.
+![alt text](https://i.ibb.co/vjdyr3h/classification-loss.png)  
+Classification Loss: after 10K steps Loss/classification_loss did not seems to converge to minima.
 
-![alt text](https://i.ibb.co/Z6xwPMS/localizaion-loss.png)  Localization Loss: after 10k steps Loss/localization_loss seems to converge
+![alt text](https://i.ibb.co/Z6xwPMS/localizaion-loss.png)  
+Localization Loss: after 10k steps Loss/localization_loss seems to converge
 
-![alt text](https://i.ibb.co/7zKLL4b/total-loss.png)  Total Loss: At the ending steps towards 10000 step Loss/total_loss have started converging
+![alt text](https://i.ibb.co/7zKLL4b/total-loss.png)  
+Total Loss: At the ending steps towards 10000 step Loss/total_loss have started converging
 
 #### Evaluation Results
 DetectionBoxes_Precision/mAP@.50IOU = 0.03809
