@@ -50,7 +50,7 @@ parser.add_argument("-c",
 parser.add_argument("-r",
                     "--ratio",
                     help="ratio of train test split",
-                    type=int, default=0.3)
+                    type=float, default=0.3)
 
 
 
